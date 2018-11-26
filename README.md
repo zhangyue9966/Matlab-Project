@@ -1,2 +1,4 @@
 # Matlab-Project
-This is a recommendation project I did in my senior year.
+This is a recommendation model I built in my senior year as a part of my graduation essay. 
+Including a score based recommendation model and a score velocity based chapter recommendation model. These models can recommend personalized chapters for students according to their studying habits and their studying history. It can serve as a study guide to help different students. 
+For example, in the English study system, the model can recommend which chapter a student should learn next according to the performance and scores they achieved on the past a few chapters. Besides, it also can predict the scores students might get in the following chapters. In this way, the model could recommend chapters that students need in order to pass the exams. By practicing the recommended chapters, they can learn English more effectively and achieve better scores.
